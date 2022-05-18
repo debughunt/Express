@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://root:root@clustermay.awgd7.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('randomcodesopeopledonthackme', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
